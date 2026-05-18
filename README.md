@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there!
+I'm **Mint O'Neill**, a graphic designer and current student at Portland State University. I'm a fan of web/UI work, wayfinding/signage design, and motion graphics (both in and out of web.)
